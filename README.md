@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
    VK:  https://vk.com/danilsaltykov
+
    Instagram:  https://www.instagram.com/dansaltyk/
 
 <!---
