@@ -5,7 +5,7 @@
 - 📫 How to reach me 
    VK:  https://vk.com/danilsaltykov
 
-   Instagram:  https://www.instagram.com/dansaltyk/
+   Instagram:  https://www.instagram.com/danysaltykov/
 
 <!---
 danilsaltykov/danilsaltykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
